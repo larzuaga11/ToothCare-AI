@@ -11,8 +11,6 @@ Go to the [Releases](../../releases) page and download the installer for your pl
 | Platform | File |
 | :--- | :--- |
 | **🪟 Windows** | `ToothCareAI Setup x.x.x.exe` |
-| **🍏 macOS (Apple Silicon)** | `ToothCareAI-x.x.x-arm64.dmg` |
-| **🐧 Linux** | `ToothCareAI-x.x.x.AppImage` |
 
 ---
 
@@ -21,8 +19,6 @@ Go to the [Releases](../../releases) page and download the installer for your pl
 | Component / Platform | Minimum Requirement |
 | :--- | :--- |
 | **🪟 Windows** | Windows 10 64-bit |
-| **🍏 macOS** | macOS 12 Monterey (Apple Silicon) |
-| **🐧 Linux** | Ubuntu 20.04+ or equivalent |
 | **🧠 RAM** | 4 GB (8 GB recommended) |
 | **💽 Disk Space** | ~2 GB free (models are bundled) |
 
