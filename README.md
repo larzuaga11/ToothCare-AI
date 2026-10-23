@@ -396,6 +396,6 @@ Found a bug or have a question? Open an issue on the **[Issues](../../issues)** 
 
 ---
 
-Built by **Luis Arzuaga** and **Angel Fonseca** as a capstone project · © 2026 Luis Arzuaga. All rights reserved.
+Built by **Luis Arzuaga** and **Angel Fonseca** as a capstone project · © 2026 Luis Arzuaga and Angel Fonseca. All rights reserved.
 
 </div>
